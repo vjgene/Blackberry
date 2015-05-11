@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="SMSForward">
+		<name >
+			SMSForward
+		</name>
+		<description >
+			Wake SMS App upon receiving message. Optionally save SMS to email
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			EWeb Computing Solutions Inc.
+		</vendor>
+		<copyright >
+			Copyright (c) 2012 EWeb Computing Solutions Inc.
+		</copyright>
+		<fileset Java="1.54" _blackberryVersion="[6.0.0)">
+			<directory >
+				6.0.0
+			</directory>
+			<files >
+				SMSForward.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

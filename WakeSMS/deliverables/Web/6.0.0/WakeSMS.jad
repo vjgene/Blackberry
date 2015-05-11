@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+MIDlet-Version: 1.0.0
+MIDlet-Jar-Size: 25100
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: WakeSMS.jar
+RIM-MIDlet-Icon-1-1: images/WakeSMS.png,focused
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_mailv2,net_rim_bbapi_options,net_rim_bbapi_invoke
+RIM-MIDlet-Flags-1: 3
+RIM-COD-Module-Name: WakeSMS
+RIM-COD-Size: 15760
+MIDlet-Name: WakeSMS
+RIM-COD-Creation-Time: 1308949400
+MIDlet-1: WakeSMS,img/icon.png,
+RIM-COD-URL: WakeSMS.cod
+MIDlet-Description: Wake SMS App upon receiving message. Optionally save SMS to email
+RIM-COD-SHA1: dd c9 52 fd 83 ea 3a 56 7a a7 10 88 8d 57 9e e7 16 1c 90 fe
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: EWeb Computing Solutions Inc.
+RIM-MIDlet-Icon-Count-1: 1

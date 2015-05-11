@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+MIDlet-Version: 1.0.0
+MIDlet-Jar-Size: 21047
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: SMSForward.jar
+RIM-MIDlet-Icon-1-1: images/WakeSMS.png,focused
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_mailv2,net_rim_bbapi_options
+RIM-MIDlet-Flags-1: 3
+RIM-COD-Module-Name: SMSForward
+RIM-COD-Size: 10920
+MIDlet-Name: SMSForward
+RIM-COD-Creation-Time: 1329150648
+MIDlet-1: SMSForward,img/icon.png,
+RIM-COD-URL: SMSForward.cod
+MIDlet-Description: Wake SMS App upon receiving message. Optionally save SMS to email
+RIM-COD-SHA1: e4 f5 09 03 68 5c 62 3c b9 ff 1a 34 5d e2 6b 66 60 e6 e0 58
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: EWeb Computing Solutions Inc.
+RIM-MIDlet-Icon-Count-1: 1
